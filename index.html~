@@ -22,8 +22,7 @@
 				<strong>Massimiliano Patacchiola</strong> <br />
 				<strong>|</strong> cognitive scientist <strong>|</strong> <br />
 				</h1>
-<br />
-				
+<br />			
 			</header>
 
 		<!-- Main -->
@@ -31,29 +30,48 @@
 
 				<!-- One -->
 					<section id="one">
+<!--
 						<header class="major">
-							<h2 id="header_page"> 
-								
+							<h2 id="header_page"> 							
 							</h2>
 						</header>
-						<img src="images/fulls/plymouth_robotics_small.png" alt="Plymouth University" style="width:100px;height:59px;" align="right">					
-						<b>PhD student in Computational Modelling and Robotics.</b> Centre for Robotics and Neural Systems. University of Plymouth (UK). Implementing social skills in humanoid robots using machine learning algorithms.  <br />
+-->
+
+<p>	
+						<img src="images/fulls/plymouth_robotics_small.png" alt="Plymouth University" style="width:100px;height:59px;float:left;margin: 20px 35px 30px 0px;">					
+					
+<b>PhD student in Computational Modelling and Robotics.</b> University of Plymouth (UK). <br /> Implementing social skills in humanoid robots using machine learning algorithms.  <br />
 Supervisors: <a target="_blank" href="http://www.tech.plym.ac.uk/soc/staff/angelo/">Angelo Cangelosi</a>, <a target="_blank" href="http://www.tech.plym.ac.uk/SoCCE/crns/staff/dahl/">Torbjorn Dahl</a>, <a target="_blank" href="http://pasa.liralab.it/">Giorgio Metta</a>
+</p>
+
+<br>
+
+<p>
+						<img src="images/fulls/eurolink_logo_grey.png" alt="Eurolink Systems" style="width:99px;height:36px;float:left;margin: 15px 35px 30px 0px;">					
+						<b>Artificial Intelligence specialist.</b> Eurolink Systems group (Rome, Italy).  
+<br />Autonomous control for unmanned ground vehicle and unmanned aerial vehicle.  <br />
+								</p>
+<br>
+						<img src="images/fulls/logo_laral_small.jpg" alt="LARAL Rome" style="width:80px;height:60px;padding-left:20px;float:left;margin: 10px 55px 30px 0px;">					
+						<b>Placement.</b> Laboratory of Artificial Life and Robotics (LARAL). Rome (Italy).  <br />
+Artificial neural networks and genetic algorithms in evolutionary robotics.
 								</p>
 
-						<img src="images/fulls/eurolink_logo_grey.png" alt="Eurolink Systems" style="width:99px;height:36px;" align="right">					
-						<b>Artificial Intelligence specialist.</b> Eurolink Systems group (Rome, Italy).  Implemented algorithms for controlling unmanned ground vehicle (UGV) and unmanned aerial vehicle (UAV).  <br />
-								</p>
+<br>
 
-						<img src="images/fulls/logo-sapienza_small.jpg" alt="La Sapienza University" style="width:100px;height:36px;" align="right">					
+						<img src="images/fulls/logo-sapienza_small.jpg" alt="La Sapienza University" style="width:100px;height:36px;float:left;margin: 10px 35px 30px 0px;">					
 						<b>MSc Cognitive Neuroscience.</b> La Sapienza University (Rome, Italy).  <br />
 Supervisors: Stefano Puglisi Allegra, Domenico Parisi, Gianluca Baldassarre
 								</p>
 
-						<img src="images/fulls/logo-sapienza_small.jpg" alt="La Sapienza University" style="width:100px;height:36px;" align="right">					
+<br>
+
+						<img src="images/fulls/logo-sapienza_small.jpg" alt="La Sapienza University" style="width:100px;height:36px;float:left;margin: 10px 35px 30px 0px;">					
 						<b>BSc Experimental Cognitive Psychology.</b> La Sapienza University (Rome, Italy).  <br />
 Supervisors: Marta Olivetti Belardinelli, Valerio Santangelo
 								</p>
+
+<br>
 
 <ul class="actions">
 							<li><a href="cv_massimiliano_patacchiola.pdf" class="button" target="_blank">Full CV</a></li>
@@ -411,8 +429,8 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<footer id="footer">
 				 <p>CogSci &and; Machine Learning &and; Robotics  <br /></p>  
 				<ul class="icons">
-					<li><a href="https://plus.google.com/107856134071985688983" class="icon fa fa-google-plus"><span class="label">Google+</span></a></li>
-					<li><a href="https://github.com/mpatacchiola" class="icon fa-github"><span class="label">Github</span></a></li>
+					<li><a target="_blank" href="https://plus.google.com/107856134071985688983" class="icon fa fa-google-plus"><span class="label">Google+</span></a></li>
+					<li><a target="_blank" href="https://github.com/mpatacchiola" class="icon fa-github"><span class="label">Github</span></a></li>
 					<li><a href="#" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
 				</ul>
 				<ul class="copyright">
